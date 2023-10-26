@@ -1,6 +1,6 @@
 # For windows pro version
 
-## windows server docker installation [Click for GitHub](https://github.com/microsoft/Windows-Containers/blob/Main/helpful_tools/Install-DockerCE/install-docker-ce.ps1) [Click here for blog](https://www.virtualizationhowto.com/2022/09/install-docker-on-windows-server-2022/)
+## windows server docker installation [Click for GitHub](https://github.com/microsoft/Windows-Containers/blob/Main/helpful_tools/Install-DockerCE/install-docker-ce.ps1)     [Click here for blog](https://www.virtualizationhowto.com/2022/09/install-docker-on-windows-server-2022/)
 ```
 Invoke-WebRequest -UseBasicParsing "https://raw.githubusercontent.com/microsoft/Windows-Containers/Main/helpful_tools/Install-DockerCE/install-docker-ce.ps1" -o install-docker-ce.ps1
 ```
